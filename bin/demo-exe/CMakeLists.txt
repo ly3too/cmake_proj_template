@@ -1,0 +1,1 @@
+auto_add_executable(demo-exe GLOB DEPENDS hello)

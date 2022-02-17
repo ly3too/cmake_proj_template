@@ -1,0 +1,6 @@
+[submodule "ext/gtest"]
+	path = ext/gtest
+	url = git@github.com:ly3too/gtest-binary.git
+[submodule "cmakefiles"]
+	path = cmakefiles
+	url = git@github.com:ly3too/cmake-util.git
