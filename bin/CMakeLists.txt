@@ -1,1 +1,1 @@
-auto_add_subdirs()
+auto_add_subexes(DEPENDS ${GTEST} hello)
